@@ -17,4 +17,3 @@ The project is to analyze bike share data using Python
 
 ### Credits
 None
-
